@@ -1,2 +1,2 @@
 # MyBoilerPlate
-[MyBoilerPlate](https://dimassavchenko.github.io/MyBoilerPlate/)
+[MyBoilerPlate](https://dimassavchenko.github.io/MyBoilerPlate/dev)
